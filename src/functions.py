@@ -1,8 +1,7 @@
-from typing import List, NewType, Union, Dict
+from typing import NewType, Union
 
 import numpy
 from functools import singledispatch
-import itertools
 
 
 class Hard: pass
